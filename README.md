@@ -1,4 +1,4 @@
-# 🎨 Image Generation Application
+# 🎨 ArtistryAI | Image Generation Application
 
 A dynamic web application built with React that enables users to generate and explore images powered by the DALL-E 2 API (currently inactive). This application provides an intuitive interface for creativity and inspiration, catering to both casual users and artists.
 
